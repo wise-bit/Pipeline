@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "socializer-4eeae": {
+      "hosting": {
+        "app": [
+          "socializer-4eeae"
+        ]
+      }
+    }
+  }
+}
